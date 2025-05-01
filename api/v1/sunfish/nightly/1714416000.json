@@ -1,0 +1,14 @@
+{
+  "response": [
+    {
+      "datetime": 1714416000,
+      "filename": "GridOS-FP4-20250430.zip",
+      "id": "1234567890abcdef1234567890abcdef",
+      "romtype": "nightly",
+      "size": 1024000000,
+      "url": "https://bitbucket.org/grid-os/aospota/downloads/GridOS-FP4-20250430.zip",
+      "version": "1.0",
+      "device": "sunfish"
+    }
+  ]
+}
