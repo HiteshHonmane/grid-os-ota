@@ -2,11 +2,11 @@
   "response": [
     {
       "datetime": 1746038400,
-      "filename": "GridOS-FP4-20250430.zip",
-      "id": "1234567890abcdef1234567890abcdef",
+      "filename": "GridOS-FP4-20250501.zip",
+      "id": "1234567890abcdef1234567890abcdef",  
       "romtype": "nightly",
-      "size": 1024000000,
-      "url": "https://bitbucket.org/grid-os/aospota/downloads/GridOS-FP4-20250430.zip",
+      "size": 1024000000,                      
+      "url": "https://github.com/HiteshHonmane/grid-os-ota/releases/download/sunfish-nightly-20250501/GridOS-FP4-20250501.zip",
       "version": "1.0",
       "device": "sunfish"
     }
